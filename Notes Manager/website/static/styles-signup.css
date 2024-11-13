@@ -1,0 +1,10 @@
+.boton-signup {
+    width: 100%;
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}

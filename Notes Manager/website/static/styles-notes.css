@@ -1,0 +1,16 @@
+.list-group-item {
+    word-wrap: break-word;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+textarea.form-control {
+    resize: vertical;
+    max-height: 300px;
+}
+.note-title {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
